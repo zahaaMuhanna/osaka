@@ -1,0 +1,117 @@
+:root{
+    --mainColor:#ff206e;
+}
+.header{
+    background-image: url('../image/bg_osaka.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.header .header-content a{
+    color:var(--mainColor);
+    
+}
+.icon{
+    width: 3rem;
+    height: 3rem;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: var(--mainColor);
+}
+.nav-link:focus, .nav-link:hover{
+    color: var(--mainColor);
+}
+.icon:hover{
+    background-color: var(--mainColor);
+}
+
+.about{
+    background-image: url('../image/light_dot.jpg');
+}
+.title h2{
+    font-size: 4rem;
+    font-weight: 900;
+    color: #CACACA;
+    letter-spacing: 15px;
+}
+.title h3{
+    font-weight: 900;
+    font-size: 2rem;
+}
+.about .About-content p:first-of-type{
+    color: var(--mainColor);
+}
+
+.services{
+    background-image: url('../image/dark_dot.jpg');
+}
+.tittle h2{
+    color: #222;
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: 15px;
+}
+.tittle h3{
+    color:#fff;
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+.service-item h2{
+    position: relative;
+    margin-bottom: 20px;
+}
+.service-item i:hover{
+    color: var(--mainColor);
+    transition: color 1s;
+}
+
+.service-item h2::after{
+    content: '';
+    background-color: var(--mainColor);
+    position:absolute;
+    width: 15%;
+    height: 3px;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: width 1s;
+}
+.service-item:hover h2:after{
+    width: 30%;
+}
+
+.clients{
+    background-image: url(../image/light_dot.jpg);
+}
+.clients .client img{
+    width: 120px;
+    height: 120px;
+}
+.carousel-indicators [data-bs-target]{
+
+    background-color: black;
+}
+.carousel-control-next, .carousel-control-prev{
+    color: black;
+}
+.nav-tabs{
+    justify-content: center;
+}
+.nav-tabs .nav-link{
+    color: black;
+    border: none;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: var(--mainColor);
+}
+.tab-content{
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
