@@ -1,16 +1,15 @@
-Osaka Website
-Welcome to the Osaka website repository! This project is a practice site created to enhance skills in HTML, CSS, and Bootstrap, focusing on building a visually appealing and responsive web interface. This repository documents my learning journey and serves as a portfolio piece to demonstrate foundational front-end development skills.
+# Osaka Website 🌐
+Welcome to the Osaka website repository! This project is a practice site created to enhance my skills in HTML, CSS, and Bootstrap, focusing on building a visually appealing and responsive web interface.
 
 
-The Osaka project is a static website created as part of my web development training. The website layout and styling are inspired by modern design principles, utilizing HTML and CSS for structure and styling. This project also marks my initial exploration of Bootstrap, a popular CSS framework, for responsive design.
+## 📋 Overview
+The Osaka project is a static website developed as part of my web development training. It combines fundamental HTML and CSS techniques with the flexibility of Bootstrap to implement responsive design. The site serves as both a learning exercise and a showcase of essential web development skills.
 
-Features
-Responsive Design: Uses Bootstrap’s responsive grid system to adapt to various screen sizes.
-Modern Layout: Designed with a clean, user-friendly layout for improved aesthetics.
-Basic Navigation: Includes essential navigation elements to practice creating a multi-page structure.
-Technologies Used
-The Osaka website utilizes the following technologies:
+## ✨ Features
+- Responsive Design: Utilizes Bootstrap’s grid system to ensure a seamless experience across devices.
+- Modern Layout: Designed with a clean and user-friendly aesthetic.
 
-HTML5: For markup structure
-CSS3: For custom styling and layout adjustments
-Bootstrap: For responsive design and layout flexibility
+## 🛠️ Technologies Used
+- HTML5 - For the site structure and content.
+- CSS3 - For custom styling and layout enhancements.
+- Bootstrap - For responsive design and layout features.
